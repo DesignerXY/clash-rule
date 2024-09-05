@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,feishu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -91,6 +92,16 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
+
+# feishu
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishu-3rd-party-services.com
+DOMAIN-SUFFIX,feishuimg.com
+DOMAIN-SUFFIX,feishuapp.cn
+DOMAIN-SUFFIX,getfeishu.cn
+DOMAIN-SUFFIX,feishupkg.com
 
 # Bilibili
 DOMAIN-SUFFIX,acg.tv
